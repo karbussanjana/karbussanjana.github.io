@@ -26,10 +26,20 @@ Technologies Used:
 •	Cloud Services: AWS for hosting and data storage
 
 
-### [Project 2: Early Warning]
+### [Project 2: Python developer Early Warning]
 In my previous role at Early Warning, I contributed to developing and maintaining a range of data-driven solutions, primarily using Python and Django. I worked closely with teams to create ETL pipelines, integrate machine learning models, and develop real-time data dashboards. My responsibilities included automating tasks with Python, building deep learning models using PyTorch, and performing data analysis to derive actionable business insights. Additionally, I was involved in building web applications, optimizing performance with GPU-accelerated solutions, and managing large datasets using tools like PySpark and Dask. The project was heavily integrated with GCP and cloud-based tools like AWS for deployment and continuous integration.
 
+### [Project 3: Python developer Abbvie]
+In this project, I followed Agile methodology to design and develop an interactive web-based solution, leveraging Python for database modeling, API creation, and views. I utilized Django's view controller and template language to create user-friendly interfaces while incorporating HTML, CSS, JavaScript, Bootstrap, and JQuery for a polished website front-end. Additionally, I performed market analysis and machine learning tasks using Python libraries like NumPy, SciPy, and Pandas. I also converted Hive/SQL queries into Spark transformations using Spark RDDs and Python, automating jobs with shell scripts. I implemented a microservices architecture using Docker, Jenkins, Git, and Puppet, ensuring continuous deployment and maintaining a strong focus on quality through Python OOD, logging, monitoring, and debugging. The project included working with Apache Cassandra, performing Django database migrations from SQLite to MySQL/PostgreSQL, and scaling Python workflows with Dask for enhanced performance. I also used PyQuery for HTML parsing, integrated SOAP web services for external communication, and leveraged Git for version control and Jira for managing workflows. In addition, I handled debugging by capturing array/register dumps and collaborating with the design team to resolve issues. This project was executed in a comprehensive environment featuring a wide range of technologies such as Python, Django, PySpark, AWS, and more.
+
+### [Project 4: Python developer-Jarus Technologies]
+At **Jarus Technologies**, I worked as a Python Developer from January 2016 to March 2017, where I was responsible for designing, developing, testing, deploying, and maintaining a web application. I created user-interactive front-end pages using HTML5, JavaScript, AngularJS, JQuery, and Bootstrap. I developed Python-based consumer features and applications with Django and followed Test-Driven Development (TDD). Additionally, I wrote Python scripts for merging and loading data into an Oracle database, while using JIRA for bug tracking. I also handled multiple priority tasks, developed SQL queries for CRUD operations, and worked in an Agile environment. The tools and technologies used included Python 2.7, Django, and PyCharm.
+
+### [Project 5: Software developer- Genpact]
+
+At **Genpact**, I worked as a **Software Developer**, where I was involved in the entire **Software Development Life Cycle (SDLC)**, including **architecting scalable platforms** and database design. I developed custom reports using **HTML**, **Python**, and **MySQL**, and built **RESTful APIs** with **Django** to track events and perform analysis. I created server-based tools for **web traffic statistical analysis** using **Pandas** and visualized data with **matplotlib**. Additionally, I worked on optimizing Python's multi-threading limitations, used **PyQuery** for HTML element selection, and managed development workflows with **Jenkins**, **Docker**, **GitLab**, and **Kubernetes**. My role also involved setting up backend rules and policies with **Node.js/Python** and collaborating in an **Agile** environment, ensuring timely delivery and high-quality project outcomes.
 
 ## Contact Me
 - Email: sanjanakarbus3@gmail.com
+- Mobile no: 9014400736
 - LinkedIn: https://www.linkedin.com/in/karbus-sanjana-07342432a/
